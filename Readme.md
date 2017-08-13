@@ -1,0 +1,1 @@
+Random Error Message is a Perl script designed to work on the Apache web server on a Linux or Unix system with the fortune program installed. Installing Fortune and Apache are an exercise left up to the end user. This github is only for issues dealing with the Random Error Message script.
